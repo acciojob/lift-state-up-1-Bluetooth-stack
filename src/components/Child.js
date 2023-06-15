@@ -9,7 +9,7 @@ const Child = ({modal, displayFun})=>{
             {
                 modal &&
                  (<div>
-                    <h1>Modal Component</h1>
+                    <h3>Modal Component</h3>
                     <p>This is the modal content</p>
                  </div>)
             }
